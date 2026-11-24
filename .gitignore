@@ -1,0 +1,11 @@
+.env
+work/
+renders/
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
+.DS_Store
